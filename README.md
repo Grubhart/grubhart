@@ -1,6 +1,7 @@
 ## This is Grubhart to Ground Control
 
-- 🌱 Estoy aprendiendo sobre Desarrollo de software y arquitectura con IA 
+- 👨‍💻 Soy Arquitecto de Soluciones Senior, former microsoft CSA
+- 🌱 Estoy aprendiendo sobre la interseccion entre la IA y el Desarrollo de software y Arquitectura 
 - 👯 Me gustaria colaborar en creacion de contenido tecnico
 - 💬 Preguntame sobre Arquitectura de soluciones, software, video games 
 - 📫 Otras redes y contacto: https://linktr.ee/grubhart
@@ -10,6 +11,7 @@
 ##
 ##
 
+- 👨‍💻 I'm Senior Solution Architect, former microsoft CSA
 - 🌱 I’m currently learning how to use AI in Software Development and Architecture
 - 👯 I’m looking to collaborate on technical content creation
 - 💬 Ask me about Architecture, video games 
