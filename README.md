@@ -17,7 +17,7 @@
 - 💬 Ask me about Architecture, video games 
 - 📫 How to reach me: https://linktr.ee/grubhart
 - 😄 Pronouns: el/he/him
-- 💻 how is work with me? check this
+- 💻 how is work with me? [Como trabajar conmigo](check this https://github.com/Grubhart/grubhart/blob/main/how_to_work_with_me.md)
 
 <!--
 **Grubhart/grubhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
