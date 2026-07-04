@@ -28,7 +28,7 @@ Valoro mucho el aprendizaje por experimentación. Un concepto, una idea, cuando 
  
 **La familia es primero.** Emergencias, problemas de salud, siempre tienen prioridad. Trabajamos para que nuestras familias estén bien, no para reemplazarlas. Además, si te obligo a hacer algo en una situación así, no vas a performar como te necesitamos, ni vas a enfocarte en tu familia; solo es un perder-perder.
  
-**Prefiero la evidencia construida antes que una opinión.** Si tienes un dato, un benchmark, una PoC, eso pesa más en la conversación que una opinión, por más senior que sea quien la diga, y eso me incluye. Esto cobra especial significado con las PoC, porque suelo hacer preguntas sobre la implementación: qué implica, qué se necesita, cómo regresamos al estado anterior si resulta que no funciona.
+**Prefiero la evidencia construida antes que una opinión.** Si tienes un dato, un benchmark, una PoC, eso pesa más en la conversación que una opinión, por más senior que sea quien la diga, y eso me incluye. Esto cobra especial significado con las PoC, porque suelo hacer preguntas sobre la implementación: qué implica, qué se necesita, cómo regresamos al estado anterior si resulta que no funciona. Porque si no la hay, quiero que entremos siendo conscientes del riesgo que estamos asumiendo.
  
 ## Cómo me comunico mejor
  
