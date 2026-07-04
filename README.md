@@ -10,7 +10,7 @@
 ##
 ##
 
-- 🌱 I’m currently learning AI Architecture
+- 🌱 I’m currently learning how to use AI in Software Development and Architecture
 - 👯 I’m looking to collaborate on technical content creation
 - 💬 Ask me about Architecture, video games 
 - 📫 How to reach me: https://linktr.ee/grubhart
