@@ -7,6 +7,8 @@
 - 😄 Pronombres: el/he/him
 - 💻 Como es trabajar conmigo? puedes revisarlo aqui
 
+##
+##
 
 - 🌱 I’m currently learning AI Architecture
 - 👯 I’m looking to collaborate on technical content creation
