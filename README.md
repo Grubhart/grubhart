@@ -6,7 +6,7 @@
 - 💬 Preguntame sobre Arquitectura de soluciones, software, video games 
 - 📫 Otras redes y contacto: https://linktr.ee/grubhart
 - 😄 Pronombres: el/he/him
-- 💻 Como es trabajar conmigo? puedes revisarlo aqui
+- 💻 Como es trabajar conmigo? puedes revisarlo aqui [Como trabajar conmigo](https://github.com/Grubhart/grubhart/blob/main/como_trabajar_conmigo.md)
 
 ##
 ##
