@@ -28,7 +28,7 @@ I value learning through experimentation a lot. Whenever a doubt comes up about 
 
 **Family first.** Emergencies and health issues always take priority. We work so our families are okay, not to replace them. Also, if I force you to work through something like that, you're not going to perform the way we need you to, nor will you be able to focus on your family, it's a lose-lose.
 
-**I trust built evidence over opinion.** If you have data, a benchmark, a PoC, that carries more weight in the conversation than an opinion (no matter how senior the person voicing it, myself included). This matters especially with PoCs, since I tend to ask implementation questions: what does it involve, what does it need, how do we roll back if it turns out not to work.
+**I trust built evidence over opinion.** If you have data, a benchmark, a PoC, that carries more weight in the conversation than an opinion (no matter how senior the person voicing it, myself included). This matters especially with PoCs, since I tend to ask implementation questions: what does it involve, what does it need, and whether there's a way back if it doesn't work out. Because if there isn't, I want us going in with our eyes open about the risk.
 
 ## How I communicate best
 
