@@ -1,67 +1,67 @@
-# Cómo trabajar conmigo
-
-Hola! Soy Edson Chávez a.k.a Grubhart, humano a tiempo completo, Arquitecto de Soluciones para pagar las cuentas, y eterno aprendiz. Este doc existe como una forma de que me conozcan un poco mejor, saber cómo es interactuar conmigo y qué pueden esperar. Es un documento vivo que irá modificándose en el tiempo.
-
-## Cómo proceso las cosas
-
-No pienso de forma lineal, pienso por patrones. Conecto cosas distintas que a simple vista no tienen relación, y suelo usar analogías como herramienta principal para comunicar lo que pienso, en particular para aterrizar conceptos abstractos al mundo real o aclarar mis dudas sobre algún concepto.
-
-Valoro mucho el aprendizaje por experimentación. Un concepto, una idea, cuando surge una duda usualmente digo: "solo hay una forma de saberlo", y esa es haciendo una prueba, algo que pueda ver funcionando y modificar para entender mejor cómo trabaja.
-
-## Mis valores base
-
-**Resuelvo problemas, no construyo soluciones.** Considero que una solución es solo tan buena como la comprensión del problema, por eso me enfoco en el problema; una vez que lo entiendo, empiezo a trabajar en algo que lo resuelva.
-
-**Criterio antes que ejecución ciega.** Tengo aversión a las soluciones prescriptivas, a las situaciones de "porque yo lo digo", "siempre se ha hecho así". No tiene que ser explicado verbalmente, con que esté documentado y accesible basta. Trabajo en equipos donde gran parte de lo que hacemos es entender cómo encajan los sistemas y la organización entre sí, y con gente muy brillante; negarles la razón de por qué se hace algo, en mi opinión, es subestimarlos y raya en lo insultante.
-
-**Ownership.** Compro el problema, y hago lo posible por solucionarlo; si hay trabas y necesito ayuda, las comunico hasta resolverlo. La contraparte es que si nadie más lo prioriza o se involucra, me lleva a pensar que no importa o no es realmente un problema; si eso sucede, preguntaré antes de despriorizarlo.
-
-**Evito activamente buscar culpables.** Los sistemas y procesos en los que trabajamos son complejos, y rara vez existe un único culpable. Considero más importante entender qué sucedió, cómo lo evitamos o detectamos, y/o qué hacer la próxima vez que suceda.
-
-## Cómo trabajo
-
-**Trabajo en equipo.** Tengo un estilo de liderazgo basado en pedidos y responsabilidades compartidas. Las decisiones se conversan y se explican a todos, y tomamos ownership y responsabilidad como un equipo.
-
-**Hago explícito lo implícito.** Tomar conocimiento tácito, suposiciones o motivaciones, algo que para alguien puede ser obvio (y que muchas veces vive en la cabeza de alguien o en decisiones no documentadas) no necesariamente lo es para todos, y es importante expresarlo antes de tomar decisiones. No pretendo ser obvio, solo estar seguro de que todos estamos entendiendo lo mismo y tenemos expectativas claras.
-
-**Lidero poniendo a las personas primero.** Es mi inclinación por defecto. Prefiero equipos horizontales donde la gente pueda cuestionar decisiones, no jerarquías donde la autoridad reemplaza al argumento.
-
-**La familia es primero.** Emergencias, problemas de salud, siempre tienen prioridad. Trabajamos para que nuestras familias estén bien, no para reemplazarlas. Además, si te obligo a hacer algo en una situación así, no vas a performar como te necesitamos, ni vas a enfocarte en tu familia; solo es un perder-perder.
-
-**Prefiero la evidencia construida antes que una opinión.** Si tienes un dato, un benchmark, una PoC, eso pesa más en la conversación que una opinión, por más senior que sea quien la diga, y eso me incluye. Esto cobra especial significado con las PoC, porque suelo hacer preguntas sobre la implementación: qué implica, qué se necesita, y si hay manera de volver atrás si no funciona. Porque si no la hay, quiero que entremos siendo conscientes de que es un viaje de solo ida.
-
-## Cómo me comunico mejor
-
-Prefiero async (Slack/mensajes). Respondo cuando puedo procesar bien lo que me estás pidiendo, no necesariamente al instante; si un mensaje queda esperando, por favor recuérdamelo. Usualmente tengo muchos frentes abiertos, y que me lo digas no me molesta.
-
-Si algo es urgente de verdad, dilo explícitamente (haz lo posible por incluir el impacto), así puedo priorizarlo.
-
-Si algo no está claro, prefiero que me lo digas directo, no leo bien la ambigüedad social, y prefiero mil veces la claridad en los hechos. Punto importante: no confundir la claridad con ser grosero o basarse solo en opiniones.
-
-Ve directo al grano en el primer mensaje. Un "Hola Grub, me puedes ayudar con X" me da lo que necesito para calibrar urgencia y prioridad de inmediato. Un "Hola, ¿cómo estás?" suelto, sin más contexto, probablemente lo lea, responda en mi mente "hola, ocupado" y siga con otra cosa sin responder, porque siempre hay algo más pidiendo atención y ese mensaje no me dio nada urgente ni prioritario.
-
-## Lo que valoro
-
-**Colaboración real.** Gente que suma, que comparte contexto, que no trabaja en silos.
-
-**Transparencia y comunicación directa**, incluso cuando es incómoda. Decir "no lo sé" cuando no sabes algo nos permite hacer algo al respecto.
-
-## Lo que no tolero
-
-**Trabajar para cuidar tu puesto en vez de resolver el problema.** Hacer las cosas solo para evitar que sea tu culpa, sin tomar ownership ni participar de la solución, o la contraparte: acaparar y retener información solo para hacerte indispensable.
-
-**No trabajar en equipo.** Si tomas riesgos sin decirle a nadie, no podemos ayudarte, involucrarnos ni aportar algo que hubiera podido ser importante para reducirlo. Estás decidiendo hacer las cosas solo y tomando toda la responsabilidad en lugar de compartirla con nosotros.
-
-## Reuniones
-
-Hago lo posible por no tener reuniones al mismo tiempo, esto por respeto a todos; trato de mantener foco y estar presente durante una reunión. Si me envías una invitación, incluye agenda o propósito, eso me ayuda a decidir dónde puedo generar más impacto. Si solo me envías una invitación vacía y sin contexto, puede que no asista si hay otra donde sí tengo claro cómo aporto. Además, mi span de atención se diluye luego de 30-45 minutos; si la reunión se extiende, me cuesta más mantener el foco y la calidad de mi aporte empieza a decaer. Si no asisto pero realmente quieres mi opinión, dímelo, grábala y haré lo posible por verla offline, y pasarte notas.
-
-## Lo que la gente puede malinterpretar de mí
-
-Hago muchas preguntas; no es cuestionamiento ni dudas sobre criterio o capacidad, todo lo contrario, es mi forma de hacer las cosas también mías y participar en la decisión. Podemos separar momentos aparte para responderlas.
-
-**Me esfuerzo en ser sociable.** Soy una persona naturalmente tímida; sin embargo, en el trabajo me esfuerzo en ser sociable y conversar con el fin de entender lo que pasa y que sea fácil hablar conmigo. Sin embargo, eso consume mucha energía, puedo necesitar espacios de desconexión, y si llegas a la mitad de uno puede parecer que interrumpes algo. No lo haces, solo dame un par de segundos para volver a mi mood de trabajo.
-
-# Fuera del trabajo
-
-Vivo en Lima, Perú. Junto con mi socia y esposa llevamos **Nyx AND Hart**, un podcast y marca de contenido tech, donde hablamos de Tecnología, Cultura y liderazgo. Me gusta participar en comunidades locales sobre desarrollo de software e IA. Como ya mencioné, soy una persona naturalmente tímida, pero si me ves en la calle probablemente tenga cara de que no quiero hablar con nadie; no es así, siempre respondo a un hola y si gustas podemos charlar de lo que sea, solo sé intencional con la conversación para hacerlo más fácil para mí. Mis hobbies son leer blogs o artículos, escribir en mi blog, videojuegos, ver series o películas y pasar tiempo con mis amigos.
+# How to Work With Me
+ 
+Hi! I'm Edson Chávez a.k.a Grubhart, full-time human, Solutions Architect to pay the bills, and eternal beginner. This doc exists as a way for people to know me a bit better, understand what it's like to interact with me, and what they can expect. It's a living document that will keep changing over time.
+ 
+## How I process things
+ 
+I don't think linearly, I think in patterns. I connect things that seem unrelated at first glance, and I tend to use analogies as my main tool for communicating what I think, especially to ground abstract concepts in the real world or work through my own questions about something.
+ 
+I value learning through experimentation a lot. Whenever a doubt comes up about a concept or an idea, I usually say: "there's only one way to find out," and that's by running an experiment, something I can see working and tinker with to understand it better.
+ 
+## My core values
+ 
+**I solve problems, not build solutions.** I believe a solution is only as good as the understanding of the problem behind it, so I focus on the problem first; once I understand it, I start working on something that solves it.
+ 
+**Judgment over blind execution.** I have an aversion to prescriptive solutions, to situations of "because I said so," "that's how it's always been done." It doesn't need to be explained out loud, documented and accessible is enough. I tend to work in knowledge-heavy teams (a lot of the job is understanding how systems and the org actually fit together) with very sharp people, and denying them the reasoning behind why something is done, in my opinion, underestimates them and borders on insulting.
+ 
+**Ownership.** I buy into the problem and do what I can to solve it; if there are blockers and I need help, I speak up until it's resolved. The flip side is that if no one else prioritizes it or gets involved, it makes me think it doesn't actually matter or isn't a real problem; if that happens, I'll ask before deprioritizing it.
+ 
+**I actively avoid finding someone to blame.** The systems and processes we work in are complex, and there's rarely a single person at fault. I find it far more useful to understand what happened, how we prevent or catch it, and/or what to do next time it happens.
+ 
+## How I work
+ 
+**I work as a team.** My leadership style is built on shared asks and shared ownership. Decisions get discussed and explained to everyone, and we take ownership and accountability as a team.
+ 
+**I make the implicit explicit.** Taking tacit knowledge, assumptions, or motivations, something that might feel obvious to one person (and often lives only in someone's head or in undocumented decisions), isn't necessarily obvious to everyone, and it matters to spell it out before making decisions. I'm not trying to state the obvious, I just want to make sure we're all understanding the same thing and have clear expectations.
+ 
+**I lead by putting people first.** It's my default instinct. I prefer horizontal teams where people can question decisions, not hierarchies where authority replaces argument.
+ 
+**Family first.** Emergencies and health issues always take priority. We work so our families are okay, not to replace them. Also, if I force you to work through something like that, you're not going to perform the way we need you to, nor will you be able to focus on your family, it's a lose-lose.
+ 
+**I trust built evidence over opinion.** If you have data, a benchmark, a PoC, that carries more weight in the conversation than an opinion (no matter how senior the person voicing it, myself included). This matters especially with PoCs, since I tend to ask implementation questions: what does it involve, what does it need, and whether there's a way back if it doesn't work out. Because if there isn't, I want us going in with our eyes open, knowing it's a one-way ticket.
+ 
+## How I communicate best
+ 
+I prefer async (Slack/messages). I respond once I can properly process what you're asking of me, not necessarily right away; if a message is left hanging, please remind me. I usually have a lot going on at once, and being reminded doesn't bother me.
+ 
+If something is truly urgent, say so explicitly (do your best to include the impact), so I can prioritize it.
+ 
+If something isn't clear, I'd rather you tell me directly (I don't read social ambiguity well), and I'll take direct and clear over vague and polite every time. Important note: don't confuse clarity with rudeness or with something based purely on opinion.
+ 
+Get straight to the point in your first message. A "Hey Grub, can you help me with X" gives me what I need to gauge urgency and priority right away. A loose "Hey, how are you?" with no context will probably get read, met with a mental "hey, busy," and set aside, not because I don't care, but because there's always something else demanding attention, and that message didn't give me anything urgent or prioritizable to act on.
+ 
+## What I value
+ 
+**Real collaboration.** People who add to the work, share context, and don't operate in silos.
+ 
+**Transparency and direct communication**, even when it's uncomfortable. Saying "I don't know" when you don't know something lets us actually do something about it.
+ 
+## What I don't tolerate
+ 
+**Working to protect your position instead of solving the problem.** Doing things just to avoid being blamed, without taking ownership or engaging with the solution, or the flip side: hoarding and withholding information just to make yourself indispensable.
+ 
+**Not working as a team.** If you take risks without telling anyone, we can't help you, get involved, or contribute something that could have mattered in reducing that risk. You're choosing to go it alone and take on all the responsibility instead of sharing it with us.
+ 
+## Meetings
+ 
+I do my best to avoid overlapping meetings, out of respect for everyone's time; I try to stay focused and present during a meeting. If you send me an invite, include an agenda or purpose (that helps me decide where I can have the most impact). If you send me an empty invite with no context, I might skip it in favor of one where I'm clear on how I contribute. Also, my attention span tends to fade after 30-45 minutes; if a meeting runs long, I have a harder time staying focused and the quality of my input starts to drop. If I don't attend but you genuinely want my input, let me know, record it, and I'll do my best to watch it offline and send you some notes.
+ 
+## What people might misread about me
+ 
+I ask a lot of questions; it's not doubt or pushback on someone's judgment or competence, quite the opposite, it's how I make things my own and take part in the decision. We can carve out separate time to work through them.
+ 
+**I make an effort to be sociable.** I'm naturally a shy person; still, at work I make an effort to be sociable and talk things through so I can understand what's going on and make it easy for people to talk to me. That said, it takes a lot of energy, and I may need time to disconnect (if you catch me in the middle of one of those, it might feel like you're interrupting something). You're not; just give me a couple of seconds to get back into work mode.
+ 
+# Outside of work
+ 
+I live in Lima, Peru. Together with my partner and wife, we run **Nyx AND Hart**, a tech podcast and content brand where we talk about Technology, Culture, and leadership. I enjoy taking part in local software development and AI communities. As I mentioned, I'm naturally a shy person, so if you see me on the street I probably look like I don't want to talk to anyone, that's not true, I always respond to a hello, and if you're up for it we can chat about whatever. Just be intentional with the conversation to make it easier for me. My hobbies are reading blogs or articles, writing on my blog, video games, watching shows or movies, and spending time with friends.
