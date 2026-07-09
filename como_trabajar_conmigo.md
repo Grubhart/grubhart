@@ -40,6 +40,8 @@ Si algo no está claro, prefiero que me lo digas directo, no leo bien la ambigü
 
 Ve directo al grano en el primer mensaje. Un "Hola Grub, me puedes ayudar con X" me da lo que necesito para calibrar urgencia y prioridad de inmediato. Un "Hola, ¿cómo estás?" suelto, sin más contexto, probablemente lo lea, responda en mi mente "hola, ocupado" y siga con otra cosa sin responder, porque siempre hay algo más pidiendo atención y ese mensaje no me dio nada urgente ni prioritario.
 
+Aunque por lo anterior parezca que mi estilo de comunicación es serio, es todo lo opuesto: mi tono es principalmente informal, tuteo, hago bromas, y en mensajes escritos uso memes, gifs y emojis. Siéntete cómodo usándolos conmigo (de hecho, si usas un buen meme, probablemente me lo robe para incluirlo en mi repertorio). Valoro mucho el humor y las buenas preguntas.
+
 ## Lo que valoro
 
 **Colaboración real.** Gente que suma, que comparte contexto, que no trabaja en silos.
